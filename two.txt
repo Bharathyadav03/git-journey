@@ -1,2 +1,2 @@
 two
-changed 2 to staging in staging
+changed 2 to staging
